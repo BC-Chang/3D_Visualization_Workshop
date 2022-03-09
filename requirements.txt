@@ -1,4 +1,9 @@
 pyvista==0.33.3
 pythreejs==2.3.0
 numpy==1.21.5
-opencv-python==4.5.5.64
+tqdm
+hypothesis
+rtree
+lxml
+pyct
+
