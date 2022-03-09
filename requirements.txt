@@ -1,3 +1,4 @@
+python>=3.5
 lxml
 jupyterlab
 ipywidgets
@@ -23,3 +24,4 @@ omfvista
 netcdf4
 tqdm
 pythreejs
+vtk
